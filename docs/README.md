@@ -53,13 +53,12 @@ Some information about the old beta:
 You can download it here: <a href="https://github.com/geigi/cozy/releases/download/0.6.7/cozy_macos_0.6.7_beta3.dmg">Cozy 0.6.7 beta3 for macOS</a>
 
 ## Q&A
-### I have imported wrong files and cannot get rid of them:
+### I want to reset Cozy:
 Delete the following folders to reset cozy (this will loose all saved progress):
 ```
 ~/.local/share/cozy
 ~/.cache/cozy
 ```
-
 
 ### I can't uninstall the Flatpak:
 Try
@@ -78,124 +77,16 @@ You can override the flatpak settings and allow access to a path (e.g. /media) l
 flatpak --user override --filesystem=/media com.github.geigi.cozy
 ```
 
-## A big thanks
+## Thank you! 💐
 To the contributors on GitHub:
-- alyssais
-- AsavarTzeth
-- Fatih20
-- NathanBnm
-- camellan
-- chris-kobrzak
-- elya5
-- foliva
-- grenade
-- jimmac
-- jnbr
-- kaphula
-- leuc
-- magnickolas
-- meisenzahl
-- naglis
-- oleg-krv
-- paper42
-- phpwutz
-- thibaultamartin
-- umeboshi2
-- worldofpeace
+```
+alyssais, AsavarTzeth, Fatih20, NathanBnm, camellan, chris-kobrzak, elya5, foliva, grenade, jimmac, jnbr, kaphula, leuc, magnickolas, meisenzahl, naglis, oleg-krv, paper42, phpwutz, thibaultamartin, umeboshi2, worldofpeace
+```
 
-The translators:
-- Ainte
-- AndreBarata
-- Andrey389
-- Asyx
-- BunColak
-- Caarmi
-- CiTyBear
-- Distil62
-- Fitoschido
-- Floflr
-- Foxyriot
-- HansCz
-- IvoIliev
-- Jagadeeshvarma
-- MageJohn
-- Nimmerliefde
-- Oi_Suomi_On
-- Okton
-- Panwar108
-- Potty0
-- Sebosun
-- TheMBTH
-- TheRuleOfMike
-- Vistaus
-- W2hJ3MOmIRovEpTeahe80jC
-- WhiredPlanck
-- _caasi
-- aKodi
-- abcmen
-- abuyop
-- akodi
-- albanobattistella
-- amadeussss
-- andreapillai
-- arejano
-- artnay
-- b3nj4m1n
-- baschdl78
-- camellan
-- cavinsmith
-- chris109b
-- cjfloss
-- cleitonjfloss
-- corentinbettiol
-- dtgoitia
-- dzerus3
-- elgosz
-- endiamesos
-- eson
-- fishcake13
-- fountain
-- georgelemental
-- giuscasula
-- goran.p1123581321
-- hamidout
-- hkoivuneva
-- jan.sundman
-- jan_nekvasil
-- jouselt
-- karaagac
-- kevinmueller
-- leondorus
-- libreajans
-- linuxmasterclub
-- magnickolas
-- mannycalavera42
-- mardojai
-- milotype
-- mvainola
-- n1k7as
-- nikkpark
-- no404error
-- nvivant
-- oleg_krv
-- ooverloord
-- oscfdezdz
-- ragouel
-- saarikko
-- sobeitnow0
-- sojuz151
-- steno
-- tclokie
-- test21
-- thibaultmartin
-- tsitokhtsev
-- twardowskidev
-- txelu
-- vanhoxx
-- vlabo
-- xfgusta
-- yalexaner
-
+To the fantastic translators:
+```
+Ainte, AndreBarata, Andrey389, Asyx, BunColak, Caarmi, CiTyBear, Distil62, Fitoschido, Floflr, Foxyriot, HansCz, IvoIliev, Jagadeeshvarma, MageJohn, Nimmerliefde, Oi_Suomi_On, Okton, Panwar108, Potty0, Sebosun, TheMBTH, TheRuleOfMike, Vistaus, W2hJ3MOmIRovEpTeahe80jC, WhiredPlanck, _caasi, aKodi, abcmen, abuyop, akodi, albanobattistella, amadeussss, andreapillai, arejano, artnay, b3nj4m1n, baschdl78, camellan, cavinsmith, chris109b, cjfloss, cleitonjfloss, corentinbettiol, dtgoitia, dzerus3, elgosz, endiamesos, eson, fishcake13, fountain, georgelemental, giuscasula, goran.p1123581321, hamidout, hkoivuneva, jan.sundman, jan_nekvasil, jouselt, karaagac, kevinmueller, leondorus, libreajans, linuxmasterclub, magnickolas, mannycalavera42, mardojai, milotype, mvainola, n1k7as, nikkpark, no404error, nvivant, oleg_krv, ooverloord, oscfdezdz, ragouel, saarikko, sobeitnow0, sojuz151, steno, tclokie, test21, thibaultmartin, tsitokhtsev, twardowskidev, txelu, vanhoxx, vlabo, xfgusta, yalexaner
+```
 
 To nedrichards for the Flatpak.
 
