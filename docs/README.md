@@ -1,3 +1,4 @@
+<img style="float: right;" src="https://cozy.sh/assets/img/cozy.svg">
 # It's getting Cozy
 
 Cozy is a modern audiobook player for Linux. 
@@ -94,6 +95,3 @@ To nedrichards for the Flatpak.
 Cozy is on <a href="https://www.transifex.com/geigi/cozy/"> Transifex</a>, where anyone can contribute and translate. Can't find your language in the list? Let me know!
 
 If you like this project, consider supporting me on <a href="https://www.patreon.com/bePatron?u=8147127"> Patreon</a> :)
-
-----
-[![Maintainability](https://api.codeclimate.com/v1/badges/fde8cbdff23033adaca2/maintainability)](https://codeclimate.com/github/geigi/cozy/maintainability)
