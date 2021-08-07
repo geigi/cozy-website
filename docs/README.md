@@ -1,4 +1,4 @@
-<img style="float: right;" src="https://cozy.sh/assets/img/cozy.svg">
+<img style="float: right;" src="https://cozy.sh/assets/img/circle-button.svg">
 # It's getting Cozy
 
 Cozy is a modern audiobook player for Linux. 
