@@ -25,7 +25,6 @@ $code-text-color: #eeeeee !default;
 
 .badge {
     height: 60px;
-    margin-bottom: 20px;
 }
 
 @media screen and (max-width: #{$medium-breakpoint}) {
@@ -51,6 +50,10 @@ $code-text-color: #eeeeee !default;
 
     .project-name {
         margin-top: 0em;
+    }
+
+    .badge {
+        height: 70px;
     }
 }
 
