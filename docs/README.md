@@ -9,17 +9,17 @@ Head over to [Matrix](https://matrix.to/#/#cozy:gnome.org?via=matrix.org&via=gno
 ![Screenshot](https://raw.githubusercontent.com/geigi/cozy/img/img/screenshot1.png)
 
 ## Here are some of the current features:
-- **Import** your audiobooks into Cozy to browse them comfortably
+- **Import** all your audio books into Cozy to browse them comfortably
 - **Sort** your audio books by author, reader & name
 - **Remembers** your **playback position**
 - **Sleep timer**
-- **Playback speed control**
+- **Playback speed control** for each book individually
 - **Search** your library
 - **Offline Mode!** This allows you to keep an audio book on your internal storage if you store your audiobooks on an external or network drive. Perfect for listening on the go!
-- Add **mulitple storage locations**
+- Add **multiple storage locations**
 - **Drag & Drop** to import new audio books
-- Support for DRM free **mp3, m4a (aac, ALAC, …), flac, ogg, opus, wav** files
-- Mpris integration (**Media keys** & playback info for desktop environment)
+- Listen to your DRM free **mp3, m4b, m4a (aac, ALAC, …), flac, ogg and wav** audio books
+- MPRIS integration (**Media keys** & playback info for desktop environment)
 
 # Install
 
@@ -54,8 +54,8 @@ Some information about the old beta:
 
 You can download it here: <a href="https://github.com/geigi/cozy/releases/download/0.6.7/cozy_macos_0.6.7_beta3.dmg">Cozy 0.6.7 beta3 for macOS</a>
 
-## Q&A
-### I want to reset Cozy:
+## FAQ
+### I have imported wrong files and cannot get rid of them:
 Delete the following folders to reset cozy (this will loose all saved progress):
 ```
 ~/.local/share/cozy
@@ -92,7 +92,7 @@ Ainte, AndreBarata, Andrey389, Asyx, BunColak, Caarmi, CiTyBear, Distil62, Fitos
 
 To nedrichards for the Flatpak.
 
-## Help me translate cozy!
-Cozy is on <a href="https://www.transifex.com/geigi/cozy/"> Transifex</a>, where anyone can contribute and translate. Can't find your language in the list? Let me know!
+## Help us translate Cozy!
+Cozy is on <a href="https://www.transifex.com/geigi/cozy/">Transifex</a>, where anyone can contribute and translate. Can't find your language in the list? Let us know!
 
-If you like this project, consider supporting me on <a href="https://www.patreon.com/bePatron?u=8147127"> Patreon</a> :)
+If you like this project, consider supporting me on <a href="https://www.patreon.com/geigi">Patreon</a> :)
