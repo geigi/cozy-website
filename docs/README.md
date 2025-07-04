@@ -1,5 +1,3 @@
-<img style="height: 3rem;" src="https://cozy.sh/assets/img/circle-button-fullcolor.svg">
-
 # It's getting Cozy
 
 Cozy is a modern audiobook player for Linux. 
@@ -93,6 +91,6 @@ Ainte, AndreBarata, Andrey389, Asyx, BunColak, Caarmi, CiTyBear, Distil62, Fitos
 To nedrichards for the Flatpak.
 
 ## Help us translate Cozy!
-Cozy is on <a href="https://www.transifex.com/geigi/cozy/">Transifex</a>, where anyone can contribute and translate. Can't find your language in the list? Let us know!
+Cozy is on <a href="https://explore.transifex.com/geigi/cozy/">Transifex</a>, where anyone can contribute and translate. Can't find your language in the list? Let us know!
 
 If you like this project, consider supporting me on <a href="https://www.patreon.com/geigi">Patreon</a> :)
